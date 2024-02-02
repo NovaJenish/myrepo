@@ -1,0 +1,14 @@
+/*
+    Name: Jenish Bhavsar
+    Student Number: 8959926
+ */
+ body{
+        font: 14px 'Times New Roman', serif;
+        background-color: hsla(120, 50%, 50%, 1);
+        height: 80vh;
+        width: 80vh; 
+    }
+    h2{
+        color: rgb(200, 155, 35);
+        font-size: 4vh;
+    }
